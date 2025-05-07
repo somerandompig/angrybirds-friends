@@ -1,0 +1,313 @@
+html, body  { height:100%; width: 100% }
+html {
+	font-family: Arial;
+	font-size: 11px;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+a img {
+	border: 0px;
+}
+object:focus { outline:none; }
+
+#topBanner #powerupAd {
+	width: 54%;
+	float: left;
+}
+
+#topBanner #powerupAd img {
+	max-width: 100%;
+}
+
+#topBanner #joinFb {
+	float: right;
+	width: 46%;
+}
+
+#topBanner #joinFb img {
+	max-width: 100%;
+}
+
+
+#bottomContent {
+	max-width: 940px;
+	min-width: 760px;
+	margin: 6px auto 0 auto;
+}
+
+#underGameBanner {
+	text-align: center;
+	max-width: 931px;
+
+	
+	margin: 5px 0 5px 0;
+	padding: 10px 10px 10px 10px;
+	border: 1px solid #c3c1c1;
+	border-radius: 15px;
+	background: #f2f2f2;
+}
+
+#powerupVideos {
+	display: none;
+	height: 120px;
+}
+
+#powerupVideos #powerupVideoLeft, #powerupVideos #powerupVideoRight {
+	border: 1px solid #c3c1c1;
+	border-radius: 5px;
+	background: #f2f2f2;
+	width: 464px;
+	height: 114px;
+}
+
+#powerupVideos #powerupVideoLeft a, #powerupVideos #powerupVideoRight a {
+	display: block;
+	float: right;
+	padding: 5px 5px 5px 0;
+}
+
+#powerupVideos #powerupVideoLeft .titleImage, #powerupVideos #powerupVideoRight .titleImage {
+	float: left;
+}
+
+ #powerupVideos #powerupVideoRight .titleImage {
+	margin: 10px 0 0 10px;
+}
+
+#powerupVideos #powerupVideoLeft {
+	float: left;
+}
+
+#powerupVideos #powerupVideoRight {
+	float: right;
+}
+
+#moreGames {
+	float: left;
+	max-width: 624px;
+	width: 66.1%;
+}
+
+#moreGames .phoneScreenshot {
+	float: left;
+	width: 45%;
+}
+
+#angryBirdsTrilogy
+{
+	position: relative;
+	max-width: 599px;
+	height: 529px;
+	border-radius: 6px;
+}
+
+#trilogyScreenshot
+{
+	float: left;
+	width: 100%;
+}
+
+#trilogyImage
+{
+	width: 100%;
+}
+
+#moreGames .phoneScreenshot img {
+	display: block;
+	margin: 18px auto 0 auto;
+	max-width: 100%;
+}
+
+#moreGames .gameDetails {
+	width: 55%;
+	float: right;
+	margin: 0 auto;
+	margin-left: 0;
+	height: 100%;
+}
+
+#moreGames .gameDetailsContent {
+	position: relative;
+	width: 262px;
+	height: 100%;
+	margin: 0 auto;
+}
+
+#moreGames .itemsContainer {
+	max-width: 599px;
+	margin: 10px 0 0 0;
+	padding: 10px 10px 10px 10px;
+	border: 1px solid #c3c1c1;
+	border-radius: 15px;
+	background: #f2f2f2;
+}
+
+#moreGames #angryBirdsSeasons, #moreGames #angryBirdsRio, #moreGames #angryBirdsClassic {
+	position: relative;
+	max-width: 599px;
+	height: 169px;
+	border-radius: 6px;
+}
+
+
+
+#moreGames #angryBirdsSeasons, #moreGames #angryBirdsRio {
+	margin-bottom: 10px;
+}
+
+#moreGames #angryBirdsSeasons {
+	background: url(../images/angrybirds_seasons_back.png) no-repeat center;
+}
+
+#moreGames #angryBirdsRio {
+	background: url(../images/angrybirds_rio_back.png) no-repeat center;
+}
+
+#moreGames #angryBirdsClassic {
+	background: url(../images/angrybirds_classic_back.png) no-repeat center;
+}
+
+#moreGames .gameDetails .buyButtons {
+	position: absolute;
+	bottom: 5px;
+	background: url(../images/getit_back.png);
+	font-weight: bold;
+	color: white;
+	width: 264px;
+	height: 26px;
+}
+
+#moreGames .gameDetails .buyButtons img {
+	float: right;
+	margin: 3px 5px 0 0;
+}
+
+#storeOffers {
+	font-family: Arial;
+	float: right;
+	width: 33%;
+}
+
+#storeOffers .itemsContainer {
+	margin: 10px 0 0 0;
+	padding: 10px 10px 10px 10px;
+	border: 1px solid #c3c1c1;
+	border-radius: 15px;
+	background: #f2f2f2;
+	height: 602px;
+}
+
+#storeOffers .storeOfferItem {
+	height: 140px;
+	width: 280;
+	border-bottom: 1px solid #c3c1c1;
+	margin-bottom: 10px;
+}
+
+#storeOffers .last {
+	border-bottom: 0 !important;
+	margin-bottom: 0 !important;
+}
+
+#storeOffers .storeOfferItem .itemThumbnail {
+	float: left;
+	width: 45%;
+	max-width: 130px;
+}
+
+#storeOffers .storeOfferItem .itemInfo {
+	position: relative;
+	float: right;
+	width: 50%;
+}
+
+#storeOffers .storeOfferItem h3 {
+	width: 100%;
+	padding: 10px 0 0 0;
+	margin: 0;
+	color: #8a8a8a;
+	font-size: 13px;
+	font-weight: bold;
+	clear: both;
+}
+
+#storeOffers .storeOfferItem .price {
+	position: absolute;
+	top: 55px;
+	left: 0px;
+	height: 20px;
+	text-align: center;
+	background: #e9e8e8;
+	padding: 3px 8px 0 8px;
+	border-radius: 15px;
+	color: #c92225;
+	font-size: 15px;
+	font-weight: bold;
+}
+
+#storeOffers .storeOfferItem .percentageOff {
+	position: absolute;
+	left: 80px;
+	top: 40px;
+	width: 41px;
+	height: 41px;
+}
+
+#storeOffers .storeOfferItem .getItButton {
+	position: absolute;
+	top: 90px;
+	left: 0px;
+}
+
+#footerLinks {
+	float: left;
+	padding-top: 10px;
+	width: 66.1%;
+}
+
+#footer {
+	text-align: center;
+	width: 100%;
+	font-family: Arial;
+	font-size: 13px;
+	color: #777777;
+	clear: both;
+	padding-top: 20px;
+}
+
+#footer a {
+	color: #777777;
+}
+
+#likeButtons {
+	width: 760px;
+	height: 70px;
+	margin: 0 auto;
+}
+
+#likeAB, #likeLotus {
+	background: red;
+	width: 365px;
+	height: 70px;
+	float: left;
+	position: relative;
+}
+
+#likeAB iframe, #likeLotus iframe {
+	width: 360px !important;
+	height: 28px !important;
+	position: absolute;
+	left: 3px;
+	top: 45px;
+}
+
+#likeAB {
+	margin-right: 30px;
+	background: url(../images/likeAb.jpg);
+}
+
+#likeLotus {
+	background: url(../images/likeLotus.jpg);
+}

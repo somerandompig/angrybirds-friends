@@ -1,0 +1,64 @@
+{
+  "time": 1724610360000,
+  "user": {
+    "name": "chickennuggets",
+    "userId": "78640",
+    "tutorials": [
+      "tt"
+    ],
+	"avatar": null,
+    "ap": false
+  },
+  "eggs": [],
+  "friends": {
+    "items": [
+      {"u": "78640", "n": "chicken nuggets", "s": 0, "me": 0, "t": 0, "r": 1}
+    ]
+  },
+  "items": {
+    "items": [
+		{"i": "VirtualCurrency", "q": 0},
+		{"i": "BirdFood", "q": 99},
+		{"i": "ExtraSpeed", "q": 99},
+		{"i": "LaserSight", "q": 99},
+		{"i": "Earthquake", "q": 99},
+		{"i": "MightyEagle", "q": 99},
+		{"i": "ExtraBird", "q": 99},
+		{"i": "Mushroom", "q": 99}
+	],
+	"ownedBundles": [],
+	"claimableBundles": [
+	]
+  },
+  "tournament": {
+	"currentStandings": [{"u": "78640", "n": "chicken nuggets", "p": 0}],
+
+	"currentTournament": {
+		"endTime": 1882376013000,
+		"enteredDraw": false,
+		"brandedTournament": "HALLOWEEN",
+		"levels": [
+                {"levelId":"2000-62", "unlockTime":null},
+                {"levelId":"2000-63", "unlockTime":"2024-03-19 00:00"},
+                {"levelId":"2000-64", "unlockTime":"2024-03-20 00:00"},
+                {"levelId":"2000-65", "unlockTime":"2024-03-21 00:00"},
+                {"levelId":"2000-66", "unlockTime":"2024-03-22 00:00"},
+                {"levelId":"2000-67", "unlockTime":"2024-03-23 00:00"}
+		]
+	}
+  },
+  "drawconfig": {
+    "draw": "HALLOWEEN",
+    "drawCounts": [0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+    "start": 1724605200000,
+    "end": 1882376013000,
+    "email": "",
+    "entriesPerSlot": 20,
+    "token": "a"
+  },
+  "state": [],
+  "deauthorizedUserIds": [],
+  "excludedUserIds": [],
+  "requests": {"gifts": [], "brags": []},
+  "st": null
+}
