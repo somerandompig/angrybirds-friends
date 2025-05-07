@@ -1,0 +1,299 @@
+﻿SoundsNew.swf Movie Report
+
+
+
+Metadata
+
+
+Bytes         Value
+
+    
+
+      1136    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/"> <xmp:CreatorTool>Adobe Flash Professional CS5.5 - build 325</xmp:CreatorTool> <xmp:CreateDate>2012-01-30T19:24:26+02:00</xmp:CreateDate> <xmp:MetadataDate>2013-03-14T14:37:40+02:00</xmp:MetadataDate> <xmp:ModifyDate>2013-03-14T14:37:40+02:00</xmp:ModifyDate> </rdf:Description> <rdf:Description rdf:about="" xmlns:dc="http://purl.org/dc/elements/1.1/"> <dc:format>application/x-shockwave-flash</dc:format> </rdf:Description> <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"> <xmpMM:DerivedFrom rdf:parseType="Resource"> <stRef:instanceID>xmp.iid:4344956BA08CE2118DC282D4FC536000</stRef:instanceID> <stRef:documentID>xmp.did:A2A6F0A3634BE111A946BB187EAE90ED</stRef:documentID> <stRef:originalDocumentID>xmp.did:A2A6F0A3634BE111A946BB187EAE90ED</stRef:originalDocumentID> </xmpMM:DerivedFrom> <xmpMM:DocumentID>xmp.did:4944956BA08CE2118DC282D4FC536000</xmpMM:DocumentID> <xmpMM:InstanceID>xmp.iid:4944956BA08CE2118DC282D4FC536000</xmpMM:InstanceID> <xmpMM:OriginalDocumentID>xmp.did:A2A6F0A3634BE111A946BB187EAE90ED</xmpMM:OriginalDocumentID> </rdf:Description> </rdf:RDF> 
+
+Frame #    Frame Bytes    Total Bytes    Scene
+
+    
+    
+    
+
+      1        1296840        1296840    Scene 1 (AS 3.0 Classes Export Frame)
+
+Scene      Shape Bytes    Text Bytes    ActionScript Bytes
+
+    
+    
+    
+
+Scene 1              0             0                 25168
+
+Symbol    Shape Bytes    Text Bytes    ActionScript Bytes
+
+    
+    
+    
+
+
+ActionScript Bytes    Location
+
+    
+
+             25168    Scene 1:Frame 1
+
+Event Sounds: 22KHz Stereo 24 kbps MP3
+
+
+Sound name                              Bytes         Format
+
+    
+    
+
+wood rolling.wav                              6130    22KHz Mono 24 kbps MP3
+wood destroyed a3.wav                         3275    22KHz Mono 24 kbps MP3
+wood destroyed a2.wav                         3139    22KHz Mono 24 kbps MP3
+wood destroyed a1.wav                         2935    22KHz Mono 24 kbps MP3
+wood damage a3.wav                            1916    22KHz Mono 24 kbps MP3
+wood damage a2.wav                            2052    22KHz Mono 24 kbps MP3
+wood damage a1.wav                            2324    22KHz Mono 24 kbps MP3
+wood collision a6.wav                         1916    22KHz Mono 24 kbps MP3
+wood collision a5.wav                         1372    22KHz Mono 24 kbps MP3
+wood collision a4.wav                         1712    22KHz Mono 24 kbps MP3
+wood collision a3.wav                         1576    22KHz Mono 24 kbps MP3
+wood collision a2.wav                         1168    22KHz Mono 24 kbps MP3
+wood collision a1.wav                         1916    22KHz Mono 24 kbps MP3
+wingman_select.wav                            1372    11KHz Mono 24 kbps MP3
+wingman_idle.wav                              1372    11KHz Mono 24 kbps MP3
+wingman_flying.wav                            4317    11KHz Mono 24 kbps MP3
+wingman_appears_slingshot.wav                 1825    11KHz Mono 24 kbps MP3
+wingman_animation.wav                         4544    11KHz Mono 24 kbps MP3
+tnt box explodes.wav                          4703    22KHz Mono 24 kbps MP3
+title_theme.wav                             296819    22KHz Mono 48 kbps MP3
+super_slingshot.wav                           8305    22KHz Mono 24 kbps MP3
+super_seed.wav                                5994    22KHz Mono 24 kbps MP3
+star_3_coins.wav                             16326    22KHz Stereo 64 kbps MP3
+star_3.wav                                    6266    22KHz Mono 24 kbps MP3
+star_2_coins.wav                             15419    22KHz Stereo 64 kbps MP3
+star_2.wav                                    5790    22KHz Mono 24 kbps MP3
+star_1_coins.wav                             15057    22KHz Stereo 64 kbps MP3
+star_1.wav                                    5654    22KHz Mono 24 kbps MP3
+special group.wav                             1984    22KHz Mono 24 kbps MP3
+special egg.wav                               1440    22KHz Mono 24 kbps MP3
+special egg explosion.wav                     3275    22KHz Mono 24 kbps MP3
+special boost.wav                             3071    22KHz Mono 24 kbps MP3
+slingshot streched.wav                        3071    22KHz Mono 24 kbps MP3
+shop_selection.wav                            3094    22KHz Stereo 64 kbps MP3
+shop_buy.wav                                  5450    22KHz Stereo 64 kbps MP3
+sardine_can_shot.wav                          4635    22KHz Mono 24 kbps MP3
+sardine_can_physics_a2.wav                    2324    22KHz Mono 24 kbps MP3
+sardine_can_physics_a2.wav                    2324    22KHz Mono 24 kbps MP3
+rock rolling.wav                              5246    22KHz Mono 24 kbps MP3
+rock destroyed a3.wav                         3003    22KHz Mono 24 kbps MP3
+rock destroyed a2.wav                         4091    22KHz Mono 24 kbps MP3
+rock destroyed a1.wav                         3887    22KHz Mono 24 kbps MP3
+rock damage a3.wav                            1916    22KHz Mono 24 kbps MP3
+rock damage a2.wav                            2188    22KHz Mono 24 kbps MP3
+rock damage a1.wav                            1712    22KHz Mono 24 kbps MP3
+rock collision a5.wav                         4159    22KHz Mono 24 kbps MP3
+rock collision a4.wav                         3955    22KHz Mono 24 kbps MP3
+rock collision a3.wav                         4091    22KHz Mono 24 kbps MP3
+rock collision a2.wav                         3479    22KHz Mono 24 kbps MP3
+rock collision a1.wav                         3071    22KHz Mono 24 kbps MP3
+redbird_yell03.wav                            4703    22KHz Mono 24 kbps MP3
+redbird_yell02.wav                            4703    22KHz Mono 24 kbps MP3
+redbird_yell01.wav                            4703    22KHz Mono 24 kbps MP3
+powerup_intro.wav copy                        6878    22KHz Mono 24 kbps MP3
+powerup_intro.wav                             5246    22KHz Mono 24 kbps MP3
+piglette oink story.wav                       1644    22KHz Mono 24 kbps MP3
+piglette oink a9.wav                          2935    22KHz Mono 24 kbps MP3
+piglette oink a8.wav                          4023    22KHz Mono 24 kbps MP3
+piglette oink a7.wav                          3683    22KHz Mono 24 kbps MP3
+piglette oink a6.wav                          4159    22KHz Mono 24 kbps MP3
+piglette oink a5.wav                          2731    22KHz Mono 24 kbps MP3
+piglette oink a4.wav                          3139    22KHz Mono 24 kbps MP3
+piglette oink a3.wav                          1848    22KHz Mono 24 kbps MP3
+piglette oink a2.wav                          1236    22KHz Mono 24 kbps MP3
+piglette oink a2.wav                          1236    22KHz Mono 24 kbps MP3
+piglette oink a12.wav                         2460    22KHz Mono 24 kbps MP3
+piglette oink a12.wav                         2460    22KHz Mono 24 kbps MP3
+piglette oink a11.wav                         3207    22KHz Mono 24 kbps MP3
+piglette oink a10.wav                         2052    22KHz Mono 24 kbps MP3
+piglette oink a1.wav                          2188    22KHz Mono 24 kbps MP3
+piglette destroyed.wav                        4295    22KHz Mono 24 kbps MP3
+piglette damage a8.wav                        1304    22KHz Mono 24 kbps MP3
+piglette damage a7.wav                        1780    22KHz Mono 24 kbps MP3
+piglette damage a6.wav                        1916    22KHz Mono 24 kbps MP3
+piglette damage a5.wav                        2188    22KHz Mono 24 kbps MP3
+piglette damage a4.wav                        1848    22KHz Mono 24 kbps MP3
+piglette damage a3.wav                        1508    22KHz Mono 24 kbps MP3
+piglette damage a2.wav                        1508    22KHz Mono 24 kbps MP3
+piglette damage a1.wav                        1644    22KHz Mono 24 kbps MP3
+piglette collision a8.wav                     1916    22KHz Mono 24 kbps MP3
+piglette collision a7.wav                     1916    22KHz Mono 24 kbps MP3
+piglette collision a5.wav                     1916    22KHz Mono 24 kbps MP3
+pig_snare_4.wav                               1304    22KHz Mono 24 kbps MP3
+pig_snare_4.wav                               1304    22KHz Mono 24 kbps MP3
+pig_snare_3.wav                               1440    22KHz Mono 24 kbps MP3
+pig_snare_3.wav                               1440    22KHz Mono 24 kbps MP3
+pig_snare_2.wav                               1372    22KHz Mono 24 kbps MP3
+pig_snare_2.wav                               1372    22KHz Mono 24 kbps MP3
+pig_snare_1.wav                               1508    22KHz Mono 24 kbps MP3
+pig_snare_1.wav                               1508    22KHz Mono 24 kbps MP3
+pig_singing_6.wav                             1168    22KHz Mono 24 kbps MP3
+pig_hi-hat_2.wav                               964    22KHz Mono 24 kbps MP3
+mushroom_pignic_amb_melodic.wav             156482    22KHz Mono 24 kbps MP3
+mushroom_grow.wav                             8169    22KHz Mono 24 kbps MP3
+mushroom_disappear_03.wav                     1644    22KHz Mono 24 kbps MP3
+mushroom_disappear_02.wav                     1644    22KHz Mono 24 kbps MP3
+mushroom_disappear_01.wav                     1644    22KHz Mono 24 kbps MP3
+mushroom_damage_03.wav                         964    22KHz Mono 24 kbps MP3
+mushroom_damage_02.wav                         964    22KHz Mono 24 kbps MP3
+mushroom_damage_01.wav                         964    22KHz Mono 24 kbps MP3
+mushroom_collision_03.wav                      556    22KHz Mono 24 kbps MP3
+mushroom_collision_02.wav                      556    22KHz Mono 24 kbps MP3
+mushroom_collision_01.wav                      556    22KHz Mono 24 kbps MP3
+mightyeagle.wav                               7014    22KHz Mono 24 kbps MP3
+mighty_eagle_fly.wav                         10888    22KHz Mono 24 kbps MP3
+mighty_eagle_bounce.wav                       8849    22KHz Mono 24 kbps MP3
+menu confirm.wav                              1236    22KHz Mono 24 kbps MP3
+menu back.wav                                  964    22KHz Mono 24 kbps MP3
+light rolling.wav                             6334    22KHz Mono 24 kbps MP3
+light destroyed a3.wav                        2935    22KHz Mono 24 kbps MP3
+light destroyed a2.wav                        3275    22KHz Mono 24 kbps MP3
+light destroyed a1.wav                        3411    22KHz Mono 24 kbps MP3
+light damage a3.wav                           2731    22KHz Mono 24 kbps MP3
+light damage a2.wav                           2460    22KHz Mono 24 kbps MP3
+light damage a1.wav                           2799    22KHz Mono 24 kbps MP3
+level_complete.wav                            7897    22KHz Mono 24 kbps MP3
+level start military a2.wav                  10140    22KHz Mono 24 kbps MP3
+level start military a1.wav                   9596    22KHz Mono 24 kbps MP3
+level failed piglets a2.wav                  17073    22KHz Mono 24 kbps MP3
+level failed piglets a1.wav                  12451    22KHz Mono 24 kbps MP3
+level clear military a2.wav                  14354    22KHz Mono 24 kbps MP3
+level clear military a1.wav                  13471    22KHz Mono 24 kbps MP3
+ice light collision a8.wav                    1440    22KHz Mono 24 kbps MP3
+ice light collision a7.wav                    2120    22KHz Mono 24 kbps MP3
+ice light collision a6.wav                    1984    22KHz Mono 24 kbps MP3
+ice light collision a5.wav                    1168    22KHz Mono 24 kbps MP3
+ice light collision a4.wav                    1576    22KHz Mono 24 kbps MP3
+ice light collision a3.wav                    1780    22KHz Mono 24 kbps MP3
+ice light collision a2.wav                    1100    22KHz Mono 24 kbps MP3
+ice light collision a1.wav                    1304    22KHz Mono 24 kbps MP3
+highscore.wav                                 7082    22KHz Mono 24 kbps MP3
+Globe_Bird_Special_Activation_3.wav           4635    22KHz Mono 24 kbps MP3
+Globe_Bird_Special_Activation_2.wav           3887    22KHz Mono 24 kbps MP3
+Globe_Bird_Special_Activation_1.wav           3683    22KHz Mono 24 kbps MP3
+Globe_Bird_Selection_1.wav                    1916    22KHz Mono 24 kbps MP3
+Globe_Bird_Launch_1                           4363    22KHz Mono 24 kbps MP3
+Globe_Bird_idle_03.wav                         896    22KHz Mono 24 kbps MP3
+Globe_Bird_idle_02.wav                        1712    22KHz Mono 24 kbps MP3
+Globe_Bird_idle_01.wav                        2324    22KHz Mono 24 kbps MP3
+Globe_Bird_Hit_4.wav                          1168    22KHz Mono 24 kbps MP3
+Globe_Bird_Hit_3.wav                          1032    22KHz Mono 24 kbps MP3
+Globe_Bird_Hit_2.wav                          1100    22KHz Mono 24 kbps MP3
+Globe_Bird_Hit_1.wav                          1032    22KHz Mono 24 kbps MP3
+Globe_Bird_Death_remove_1.wav                 5926    22KHz Mono 24 kbps MP3
+get_coins.wav                                 1780    22KHz Mono 24 kbps MP3
+gamescorescreen_score_count_loop.wav          1236    22KHz Mono 24 kbps MP3
+fairydust_particle_05.wav                     3887    22KHz Mono 24 kbps MP3
+fairydust_particle_04.wav                     3887    22KHz Mono 24 kbps MP3
+fairydust_particle_03.wav                     3887    22KHz Mono 24 kbps MP3
+fairydust_particle_02.wav                     3887    22KHz Mono 24 kbps MP3
+fairydust_particle_01.wav                     3887    22KHz Mono 24 kbps MP3
+fairydust_ball_explosion_03.wav               2256    22KHz Mono 24 kbps MP3
+fairydust_ball_explosion_02.wav               2256    22KHz Mono 24 kbps MP3
+fairydust_ball_explosion_01.wav               2256    22KHz Mono 24 kbps MP3
+egg_collection_bar_03.wav                     1644    22KHz Mono 24 kbps MP3
+egg_collection_bar_02.wav                     1644    22KHz Mono 24 kbps MP3
+egg_collection_bar_01.wav                     1644    22KHz Mono 24 kbps MP3
+camera_shot_v01.wav                           2935    22KHz Mono 24 kbps MP3
+boomerang_swish.wav                           1032    22KHz Mono 24 kbps MP3
+boomerang_select.wav                          2052    22KHz Mono 24 kbps MP3
+boomerang_activate.wav                        1576    22KHz Mono 24 kbps MP3
+birds_outro.wav                              32707    22KHz Mono 24 kbps MP3
+birds_intro.wav                              39980    22KHz Mono 24 kbps MP3
+birds_boss.wav                               16597    22KHz Mono 24 kbps MP3
+Bird_White_Ready1.wav                         3479    22KHz Mono 24 kbps MP3
+Bird_Red_Unselected1.wav                      1304    22KHz Mono 24 kbps MP3
+Bird_Blue_Unselected1.wav                     2324    22KHz Mono 24 kbps MP3
+Bird_Blue_Talk2.wav                           3207    22KHz Mono 24 kbps MP3
+Bird_Blue_Ready1.wav                          1440    22KHz Mono 24 kbps MP3
+Bird_Black_Unselected1.wav                    2663    22KHz Mono 24 kbps MP3
+Bird_Black_Ready1.wav                         1032    22KHz Mono 24 kbps MP3
+Bird_Black_Flying2.wav                        4159    22KHz Mono 24 kbps MP3
+bird shot-a3.wav                              1508    22KHz Mono 24 kbps MP3
+bird shot-a2.wav                              2120    22KHz Mono 24 kbps MP3
+bird shot-a1.wav                              2188    22KHz Mono 24 kbps MP3
+bird misc a9.wav                              2935    22KHz Mono 24 kbps MP3
+bird misc a7.wav                              2392    22KHz Mono 24 kbps MP3
+bird misc a6.wav                              1780    22KHz Mono 24 kbps MP3
+bird misc a5.wav                              1712    22KHz Mono 24 kbps MP3
+bird misc a4.wav                              1440    22KHz Mono 24 kbps MP3
+bird misc a4.wav                              1440    22KHz Mono 24 kbps MP3
+bird misc a4.wav                              1440    22KHz Mono 24 kbps MP3
+bird misc a3.wav                              1984    22KHz Mono 24 kbps MP3
+bird misc a2.wav                              1440    22KHz Mono 24 kbps MP3
+bird misc a12.wav                             2663    22KHz Mono 24 kbps MP3
+bird misc a11.wav                             2392    22KHz Mono 24 kbps MP3
+bird misc a10_misc a8.wav                     2935    22KHz Mono 24 kbps MP3
+bird misc a10.wav                             2188    22KHz Mono 24 kbps MP3
+bird destroyed.wav                            2120    22KHz Mono 24 kbps MP3
+bird destroyed.wav                            2120    22KHz Mono 24 kbps MP3
+bird destroyed.wav                            2120    22KHz Mono 24 kbps MP3
+bird destroyed.wav                            2120    22KHz Mono 24 kbps MP3
+bird destroyed.wav                            2120    22KHz Mono 24 kbps MP3
+bird destroyed.wav                            2120    22KHz Mono 24 kbps MP3
+bird destroyed.wav                            2120    22KHz Mono 24 kbps MP3
+bird 05 select.wav                            2663    22KHz Mono 24 kbps MP3
+bird 05 flying.wav                            3819    22KHz Mono 24 kbps MP3
+bird 05 collision a5.wav                      1372    22KHz Mono 24 kbps MP3
+bird 05 collision a4.wav                      1576    22KHz Mono 24 kbps MP3
+bird 05 collision a3.wav                      1712    22KHz Mono 24 kbps MP3
+bird 05 collision a2.wav                      1644    22KHz Mono 24 kbps MP3
+bird 05 collision a1.wav                      1780    22KHz Mono 24 kbps MP3
+bird 04 select.wav                            3411    22KHz Mono 24 kbps MP3
+bird 04 flying.wav                            3955    22KHz Mono 24 kbps MP3
+bird 04 collision a4.wav                      1780    22KHz Mono 24 kbps MP3
+bird 04 collision a3.wav                      1168    22KHz Mono 24 kbps MP3
+bird 04 collision a2.wav                      1304    22KHz Mono 24 kbps MP3
+bird 04 collision a1.wav                      1032    22KHz Mono 24 kbps MP3
+bird 03 select.wav                            1644    22KHz Mono 24 kbps MP3
+bird 03 flying.wav                            4974    22KHz Mono 24 kbps MP3
+bird 03 collision a5.wav                      1304    22KHz Mono 24 kbps MP3
+bird 03 collision a5.wav                      1304    22KHz Mono 24 kbps MP3
+bird 03 collision a4.wav                      1100    22KHz Mono 24 kbps MP3
+bird 03 collision a3.wav                      1236    22KHz Mono 24 kbps MP3
+bird 03 collision a3.wav                      1236    22KHz Mono 24 kbps MP3
+bird 03 collision a2.wav                      1372    22KHz Mono 24 kbps MP3
+bird 03 collision a2.wav                      1372    22KHz Mono 24 kbps MP3
+bird 03 collision a2.wav                      1372    22KHz Mono 24 kbps MP3
+bird 03 collision a1.wav                      1508    22KHz Mono 24 kbps MP3
+bird 02 select.wav                            2527    22KHz Mono 24 kbps MP3
+bird 02 flying.wav                            3071    22KHz Mono 24 kbps MP3
+bird 02 collision a5.wav                      1100    22KHz Mono 24 kbps MP3
+bird 02 collision a4.wav                      1848    22KHz Mono 24 kbps MP3
+bird 02 collision a3.wav                      1712    22KHz Mono 24 kbps MP3
+bird 02 collision a2.wav                      1576    22KHz Mono 24 kbps MP3
+bird 02 collision a1.wav                      1848    22KHz Mono 24 kbps MP3
+bird 01 select.wav                            3275    22KHz Mono 24 kbps MP3
+bird 01 flying.wav                            4635    22KHz Mono 24 kbps MP3
+bird 01 collision a4.wav                      2324    22KHz Mono 24 kbps MP3
+bird 01 collision a4.wav                      2324    22KHz Mono 24 kbps MP3
+bird 01 collision a3.wav                      1576    22KHz Mono 24 kbps MP3
+bird 01 collision a3.wav                      1576    22KHz Mono 24 kbps MP3
+bird 01 collision a2.wav                      1984    22KHz Mono 24 kbps MP3
+bird 01 collision a2.wav                      1984    22KHz Mono 24 kbps MP3
+bird 01 collision a1.wav                      1780    22KHz Mono 24 kbps MP3
+bird 01 collision a1.wav                      1780    22KHz Mono 24 kbps MP3
+bigbrother_yell.wav                           2120    22KHz Mono 24 kbps MP3
+bigbrother_yell.wav                           2120    22KHz Mono 24 kbps MP3
+bigbrother_select.wav                         2256    22KHz Mono 24 kbps MP3
+bigbrother_select.wav                         2256    22KHz Mono 24 kbps MP3
+bigbrother_fly.wav                            2595    22KHz Mono 24 kbps MP3
+bigbrother_awakens.wav                        4227    22KHz Mono 24 kbps MP3
+beatnext2.wav                                 3615    22KHz Mono 24 kbps MP3
+balloon_pop.wav                                964    22KHz Mono 24 kbps MP3
+ball_bounce.wav                                964    22KHz Mono 24 kbps MP3
+
+
+
+

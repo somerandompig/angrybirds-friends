@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<cross-domain-policy>
+    <site-control permitted-cross-domain-policies="master-only"/>
+    <allow-access-from domain="*.angrybirds-facebook.appspot.com" />
+    <allow-access-from domain="*.angrybirds-facebook-dev.appspot.com" />
+    <allow-access-from domain="*.angrybirds-facebook-staging.appspot.com" />
+    <allow-access-from domain="*.angrybirds-facebook-mobile.appspot.com" />
+    <allow-access-from domain="*.head-dot-angrybirds-facebook-dev.appspot.com" />
+    <allow-access-from domain="*.d35d0n2j1i9ovg.cloudfront.net" />
+    <allow-access-from domain="*.dyzbcwveae9tn.cloudfront.net" />
+    <allow-access-from domain="*.friends.cdn.rovio.com" />
+    <allow-access-from domain="localhost.rovio.com" />
+</cross-domain-policy>

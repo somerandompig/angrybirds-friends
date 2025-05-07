@@ -1,6 +1,24 @@
-{"currentStandings":{},"currentTournament":{"secondsLeft": 350000,"brandedTournament":"HALLOWEEN","levels":[                {"levelId":"2000-62", "unlockTime":null},
-                {"levelId":"2000-63", "unlockTime":"2024-03-19 00:00"},
-                {"levelId":"2000-64", "unlockTime":"2024-03-20 00:00"},
-                {"levelId":"2000-65", "unlockTime":"2024-03-21 00:00"},
-                {"levelId":"2000-66", "unlockTime":"2024-03-22 00:00"},
-                {"levelId":"2000-67", "unlockTime":"2024-03-23 00:00"}]}}
+{
+	"currentStandings": [{"u": "1", "n": "maggiemagpie", "p": 0}],
+	"previousTournament": {
+		"players": [{"u": "1", "n": "maggiemagpie", "p": 69420, "r": 1}],
+		"goldTrophies": 1,
+		"silverTrophies": 0,
+		"bronzeTrophies": 0,
+		"priceCounts": [200, 100, 50, 10]
+	},
+	"lastResult": null,
+	"currentTournament": {
+		"endTime": 1882376013000,
+		"enteredDraw": false,
+		"brandedTournament": "EASTER_1",
+		"levels": [
+			{"levelId":"2000-119","unlockTime":0},
+			{"levelId":"2000-113","unlockTime":0},
+			{"levelId":"2000-121","unlockTime":0},
+			{"levelId":"2000-111","unlockTime":0},
+			{"levelId":"2000-112","unlockTime":0},
+			{"levelId":"2000-120","unlockTime":0}
+		]
+	}
+}

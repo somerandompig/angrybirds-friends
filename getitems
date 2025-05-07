@@ -1,0 +1,15 @@
+{
+    "items": [
+		{"i": "VirtualCurrency", "q": 0},
+		{"i": "BirdFood", "q": 99},
+		{"i": "ExtraSpeed", "q": 99},
+		{"i": "LaserSight", "q": 99},
+		{"i": "Earthquake", "q": 99},
+		{"i": "MightyEagle", "q": 99},
+		{"i": "ExtraBird", "q": 99},
+		{"i": "Mushroom", "q": 99}
+	],
+	"ownedBundles": [],
+	"claimableBundles": [
+	]
+}
