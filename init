@@ -1,7 +1,7 @@
 {
   "time": 1724610360000,
   "user": {
-    "name": "maggiemagpie",
+    "name": "uno",
     "userId": "1",
     "tutorials": [
       "tt"
@@ -12,7 +12,7 @@
   "eggs": [],
   "friends": {
     "items": [
-      {"u": "1", "n": "maggiemagpie", "s": 0, "me": 0, "t": 0, "r": 1}
+      {"u": "1", "n": "uno", "s": 0, "me": 0, "t": 0, "r": 1}
     ]
   },
   "items": {
@@ -31,16 +31,16 @@
 	]
   },
   "tournament": {
-	"currentStandings": [{"u": "1", "n": "maggiemagpie", "p": 0}],
+	"currentStandings": [{"u": "1", "n": "uno", "p": 0}],
 	"previousTournament": {
-		"players": [{"u": "1", "n": "maggiemagpie", "p": 69420, "r": 1}],
+		"players": [{"u": "1", "n": "uno", "p": 69420, "r": 1}],
 		"goldTrophies": 1,
 		"silverTrophies": 0,
 		"bronzeTrophies": 0,
 		"priceCounts": [200, 100, 50, 10]
 	},
 	"lastResult": {
-		"players": [{"u": "1", "n": "maggiemagpie", "p": 69420, "r": 1}],
+		"players": [{"u": "1", "n": "uno", "p": 69420, "r": 1}],
 		"priceCounts": [200, 100, 50, 10],
 		"prizes": [{"itemId": "VirtualCurrency", "quantity": 0}]
 	},
