@@ -47,19 +47,19 @@
 	"currentTournament": {
 		"endTime": 1882376013000,
 		"enteredDraw": false,
-		"brandedTournament": "EASTER_1",
+		"brandedTournament": null,
 		"levels": [
-			{"levelId":"2000-119","unlockTime":0},
-			{"levelId":"2000-113","unlockTime":0},
-			{"levelId":"2000-121","unlockTime":0},
-			{"levelId":"2000-111","unlockTime":0},
-			{"levelId":"2000-112","unlockTime":0},
-			{"levelId":"2000-120","unlockTime":0}
+			{"levelId":"2000-1","unlockTime":0},
+			{"levelId":"2000-2","unlockTime":0},
+			{"levelId":"2000-3","unlockTime":0},
+			{"levelId":"2000-4","unlockTime":0},
+			{"levelId":"2000-5","unlockTime":0},
+			{"levelId":"2000-6","unlockTime":0}
 		]
 	}
   },
   "drawconfig": {
-    "draw": "EASTER_2013",
+    "draw": null,
     "drawCounts": [0,0,0,0,0,0,0,0,0,0,0,0,0,0],
     "start": 1724605200000,
     "end": 1882376013000,
