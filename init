@@ -2,7 +2,7 @@
   "time": 1724610360000,
   "user": {
     "name": "uno",
-    "userId": "1",
+    "userId": "13209",
     "tutorials": [
       "tt"
     ],
@@ -12,7 +12,7 @@
   "eggs": [],
   "friends": {
     "items": [
-      {"u": "1", "n": "uno", "s": 0, "me": 0, "t": 0, "r": 1}
+      {"u": "13209", "n": "uno", "s": 0, "me": 0, "t": 0, "r": 1}
     ]
   },
   "items": {
@@ -31,16 +31,16 @@
 	]
   },
   "tournament": {
-	"currentStandings": [{"u": "1", "n": "uno", "p": 0}],
+	"currentStandings": [{"u": "13209", "n": "uno", "p": 0}],
 	"previousTournament": {
-		"players": [{"u": "1", "n": "uno", "p": 69420, "r": 1}],
+		"players": [{"u": "13209", "n": "uno", "p": 69420, "r": 1}],
 		"goldTrophies": 1,
 		"silverTrophies": 0,
 		"bronzeTrophies": 0,
 		"priceCounts": [200, 100, 50, 10]
 	},
 	"lastResult": {
-		"players": [{"u": "1", "n": "uno", "p": 69420, "r": 1}],
+		"players": [{"u": "13209", "n": "uno", "p": 69420, "r": 1}],
 		"priceCounts": [200, 100, 50, 10],
 		"prizes": [{"itemId": "VirtualCurrency", "quantity": 0}]
 	},
